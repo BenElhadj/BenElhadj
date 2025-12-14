@@ -1,10 +1,14 @@
 ###
 
 <h1 align="center">
-  Hey 👋
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="45" />
-  What's Up?
+  Hey there 👋 What's Up?
+  <img 
+    src="https://raw.githubusercontent.com/TON_USERNAME/TON_REPO/main/chemin/vers/image.png"
+    height="70"
+    style="vertical-align: middle; margin-left: 8px;"
+  />
 </h1>
+
 
 
 ###
